@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="58.59903"
+   height="58.499199"
+   viewBox="0 0 58.599028 58.499199"
+   xml:space="preserve"
+   sodipodi:docname="TMF8801Breakout_schematic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata4015"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4013">
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="712"
+   id="namedview4011"
+   showgrid="false"
+   inkscape:zoom="6.9466679"
+   inkscape:cx="18.596361"
+   inkscape:cy="26.494451"
+   inkscape:window-x="0"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+
+
+<g
+   id="schematic"
+   transform="translate(0.64404453,-6.7498998)">
+	
+		<rect
+   id="part_symbol"
+   x="7.1999998"
+   y="7.1999998"
+   width="43.199001"
+   height="57.598999"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.90020001;stroke-linecap:round" />
+	<g
+   id="pins">
+		<g
+   id="g3922">
+			
+				<line
+   x1="50.401001"
+   y1="50.400002"
+   x2="57.599998"
+   y2="50.400002"
+   id="line3920"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g>
+		<g
+   id="g3926">
+			
+				<line
+   x1="50.401001"
+   y1="43.200001"
+   x2="57.599998"
+   y2="43.203999"
+   id="line3924"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g>
+		<g
+   id="g3930">
+			
+				
+		</g>
+		
+			<line
+   x1="0"
+   y1="28.799999"
+   x2="7.1999998"
+   y2="28.799999"
+   id="line3932"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		
+			<line
+   x1="0"
+   y1="21.6"
+   x2="7.1999998"
+   y2="21.6"
+   id="line3934"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		
+			<line
+   x1="0"
+   y1="43.200001"
+   x2="7.1999998"
+   y2="43.200001"
+   id="line3936"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		
+			<line
+   x1="0"
+   y1="36"
+   x2="7.1999998"
+   y2="36"
+   id="line3938"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		
+		<g
+   id="g3946">
+			
+				<line
+   x1="50.401001"
+   y1="28.799999"
+   x2="57.599998"
+   y2="28.799999"
+   id="line3944"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g>
+		<g
+   id="g3950">
+			
+				<line
+   x1="50.401001"
+   y1="21.6"
+   x2="57.599998"
+   y2="21.604"
+   id="line3948"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g>
+	<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   x1="-0.14510617"
+   y1="15.259113"
+   x2="7.0548935"
+   y2="15.259113"
+   id="line3934-3" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   x1="-0.28905967"
+   y1="49.952007"
+   x2="6.9109397"
+   y2="49.952007"
+   id="line3934-6" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   x1="50.382717"
+   y1="35.556614"
+   x2="57.582714"
+   y2="35.556614"
+   id="line3934-7" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   x1="50.382713"
+   y1="14.539343"
+   x2="57.582714"
+   y2="14.539343"
+   id="line3934-5" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   x1="50.238766"
+   y1="57.725517"
+   x2="57.438763"
+   y2="57.725517"
+   id="line3934-35" /></g>
+	<g
+   id="pin_numbers">
+		<text
+   transform="translate(53.3108,20.1543)"
+   font-size="3"
+   id="text3953"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">8</text>
+
+		<text
+   transform="translate(53.1409,27.4492)"
+   font-size="3"
+   id="text3955"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">9</text>
+
+		<text
+   transform="translate(2.7742,20.0605)"
+   font-size="3"
+   id="text3957"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">2</text>
+
+		<text
+   font-size="3"
+   id="text3959"
+   x="3.2430191"
+   y="14.093727"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">1</text>
+
+		<text
+   font-size="3"
+   id="text3961"
+   x="2.5232496"
+   y="49.100307"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">6</text>
+
+		<text
+   transform="translate(2.7742,27.1855)"
+   font-size="3"
+   id="text3963"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">3</text>
+
+		<text
+   transform="translate(1.947,34.6855)"
+   font-size="3"
+   id="text3965"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">4</text>
+
+		<text
+   transform="translate(2.7742,41.811)"
+   font-size="3"
+   id="text3967"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">5</text>
+
+		<text
+   transform="translate(53.1409,42.0747)"
+   font-size="3"
+   id="text3969"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">11</text>
+
+		<text
+   transform="translate(53.1409,49.1997)"
+   font-size="3"
+   id="text3971"
+   style="font-size:3px;font-family:DroidSans;fill:#555555">12</text>
+
+	<text
+   y="34.038441"
+   x="53.155079"
+   style="font-size:3px;font-family:DroidSans;fill:#555555"
+   font-size="3"
+   id="text3971-0">10</text>
+<text
+   y="13.021172"
+   x="53.299034"
+   style="font-size:3px;font-family:DroidSans;fill:#555555"
+   font-size="3"
+   id="text3971-9">7</text>
+<text
+   y="56.351299"
+   x="53.155079"
+   style="font-size:3px;font-family:DroidSans;fill:#555555"
+   font-size="3"
+   id="text3971-3">13</text>
+</g>
+	<g
+   id="pin_labels">
+		<text
+   transform="translate(40.7122,44.3188)"
+   font-size="4.5"
+   id="text3974"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555">INT</text>
+
+		<text
+   font-size="4.5"
+   id="text3976"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555"
+   x="36.105675"
+   y="51.763554">GPIO0</text>
+
+		<g
+   id="g3980"
+   transform="translate(-2.3032625,6.0460641)">
+			
+				<text
+   transform="rotate(-90.000003,44.782099,8.0817008)"
+   font-size="4.5"
+   id="text3978"
+   style="font-size:4.5px;font-family:DroidSans;fill:#999999">GPIO</text>
+
+		</g>
+		
+		
+		
+		
+		<text
+   transform="translate(9.2595,22.6836)"
+   font-size="4.5"
+   id="text3990"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555">GND</text>
+
+		<text
+   transform="translate(9.219,29.9863)"
+   font-size="4.5"
+   id="text3992"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555">SDA</text>
+
+		<text
+   transform="translate(9.2595,37.0688)"
+   font-size="4.5"
+   id="text3994"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555">SCL</text>
+
+		<text
+   transform="translate(9.219,44.3716)"
+   font-size="4.5"
+   id="text3996"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555">INT</text>
+
+		<text
+   transform="translate(40.7122,22.6836)"
+   font-size="4.5"
+   id="text3998"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555">GND</text>
+
+		<text
+   transform="translate(40.7122,29.9863)"
+   font-size="4.5"
+   id="text4000"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555">SDA</text>
+
+		
+			<line
+   stroke-miterlimit="10"
+   x1="35.452015"
+   y1="47.788605"
+   x2="35.452015"
+   y2="60.204605"
+   id="line4002"
+   style="fill:none;stroke:#999999;stroke-width:0.21359999;stroke-miterlimit:10" />
+	<text
+   y="37.02216"
+   x="40.771706"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555"
+   font-size="4.5"
+   id="text3976-6">SCL</text>
+<text
+   y="16.004887"
+   x="41.059616"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555"
+   font-size="4.5"
+   id="text3976-2">VCC</text>
+<text
+   y="59.335014"
+   x="36.597042"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555"
+   font-size="4.5"
+   id="text3976-9">GPIO1</text>
+<text
+   y="51.273594"
+   x="9.3897552"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555"
+   font-size="4.5"
+   id="text3976-1">EN</text>
+<text
+   y="16.580704"
+   x="8.9578943"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555"
+   font-size="4.5"
+   id="text3976-27">VCC</text>
+</g>
+	<text
+   font-size="6"
+   id="text4005"
+   style="font-size:6px;font-family:DroidSans"
+   x="20.363892"
+   y="22.282623"><tspan
+     style="font-size:4.66666651px"
+     id="tspan4098">TMF8801 </tspan></text>
+
+	<text
+   transform="translate(19.9832,28.6191)"
+   font-size="6"
+   id="text4007"
+   style="font-size:6px;font-family:DroidSans"><tspan
+     style="font-size:4.66666651px"
+     id="tspan4096">Breakout </tspan></text>
+
+</g>
+</svg>
